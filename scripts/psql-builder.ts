@@ -34,7 +34,7 @@ const getExercises = (directories: Array<Dirent>): Array<Exercise> => {
 const createPostgresEnum = (
   exercises: Array<Exercise>,
   field: string,
-  typeName: string
+  typeName: string,
 ): string => {
   const enumValues = Object.keys(
     exercises.reduce((obj: any, ex: any) => {
@@ -42,7 +42,7 @@ const createPostgresEnum = (
       if (Array.isArray(exField)) obj[exField[0]] = true;
       else if (exField) obj[exField] = true;
       return obj;
-    }, {})
+    }, {}),
   );
   const enumString = enumValues.map((n) => `'${n}'`).join(",");
   const enumType = `CREATE TYPE ${typeName} AS ENUM (${enumString});`;
@@ -59,6 +59,7 @@ const createExercisesTable = (): string => `
 CREATE TABLE ${tableName} (
   id UUID,
   name Text NOT NULL,
+  tracking_type Text NOT NULL,
   aliases Text[],
   primary_muscles muscle[],
   secondary_muscles muscle[],
@@ -79,7 +80,7 @@ CREATE TABLE ${tableName} (
 
 const createInsertStatement = (
   table: string,
-  exercises: Array<Exercise>
+  exercises: Array<Exercise>,
 ): string => {
   return psql(table).insert(exercises).toQuery().toString();
 };
@@ -132,7 +133,7 @@ const psqlContents = [
   ...createLineBreak(1),
   createInsertStatement(
     tableName,
-    exercises.map((n: Exercise) => ({ ...n, id: uuid() }))
+    exercises.map((n: Exercise) => ({ ...n, id: uuid() })),
   ),
 ];
 
