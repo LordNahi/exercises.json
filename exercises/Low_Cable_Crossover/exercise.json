@@ -16,5 +16,6 @@
     "With a slight bend in your arms, draw your hands upward and toward the midline of your body. Your hands should come together in front of your chest, palms facing up.",
     "Return your arms back to the starting position after a brief pause."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

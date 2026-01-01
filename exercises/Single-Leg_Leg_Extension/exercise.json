@@ -14,5 +14,6 @@
     "Return to the starting position without letting the weight stop, keeping tension on the muscle.",
     "Repeat for the desired number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -19,5 +19,6 @@
     "Slowly return to the starting position as you inhale.",
     "Perform for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

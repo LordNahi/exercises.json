@@ -16,5 +16,6 @@
     "Keeping the bar tight, bend forward at the hips as much as possible. If you set the pins to what would be parallel, you not only have a safety if you fail, but know when to stop.",
     "Pause just above the pins and reverse the motion until your torso it upright."
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "trackingType": "REPS_WEIGHT"
 }

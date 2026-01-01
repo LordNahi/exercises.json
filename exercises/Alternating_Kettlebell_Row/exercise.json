@@ -16,5 +16,6 @@
     "Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.",
     "Lower the kettlebell in the working arm and repeat with your other arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

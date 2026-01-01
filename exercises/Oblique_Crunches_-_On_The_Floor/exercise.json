@@ -15,5 +15,6 @@
     "Crunch as high as you can, hold the contraction for a second and then slowly drop back down into the starting position.",
     "Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (elevation) part of the exercise."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

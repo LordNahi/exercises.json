@@ -19,5 +19,6 @@
     "Now slowly lower the weight to the starting position.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

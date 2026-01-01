@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["biceps"],
+  "primaryMuscles": [
+    "biceps"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Sit on the end of a flat bench with a dumbbell in each hand being held at arms length. The elbows should be close to the torso.",
@@ -14,5 +16,6 @@
     "Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate your arms as you lower the dumbbells so that you can switch back to a neutral grip.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

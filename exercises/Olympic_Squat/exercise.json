@@ -17,5 +17,6 @@
     "Descend by flexing the knees, refraining from moving the hips back as much as possible. This requires that the knees travel forward; ensure that they stay aligned with the feet. The goal is to keep the torso as upright as possible. Continue all the way down, keeping the weight on the front of the heel.",
     "At the moment the upper legs contact the lower, reverse the motion, driving the weight upward."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -20,5 +20,6 @@
     "Lift the bar back to the starting position by contracting the triceps and exhaling.",
     "Repeat steps 3-6 until the recommended amount of repetitions is performed."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

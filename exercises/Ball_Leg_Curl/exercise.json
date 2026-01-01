@@ -18,5 +18,6 @@
     "Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.",
     "After a brief pause, return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

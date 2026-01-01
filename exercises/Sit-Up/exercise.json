@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
@@ -13,5 +15,6 @@
     "Once you feel the contraction for a second, lower your upper body back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

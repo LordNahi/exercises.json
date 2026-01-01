@@ -4,7 +4,9 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
   "secondaryMuscles": [
     "abdominals",
     "glutes",
@@ -24,5 +26,6 @@
     "Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.",
     "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athletes effort to push the bar up will drive them down. The feet should be split, with one foot forward, and one foot back. Receive the bar with the arms locked out overhead. Return to a standing position."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -20,5 +20,6 @@
     "Repeat for the recommended amount of reps.",
     "When finished step on the lever again and slowly get the handles back to their original place."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

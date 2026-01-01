@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "exercise ball",
-  "primaryMuscles": ["abdominals"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",
@@ -15,5 +17,6 @@
     "Repeat for the recommended amount of repetitions.",
     "Switch sides and repeat the exercise."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

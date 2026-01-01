@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Lie on the floor with your back flat and knees bent with around a 60-degree angle between the hamstrings and the calves.",
@@ -13,5 +15,6 @@
     "Slowly lower down to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

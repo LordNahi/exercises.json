@@ -18,5 +18,6 @@
     "After a brief pause, return the weight to the starting position.",
     "Repeat for the desired number of repetitions before engaging the hooks to rack the weight."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

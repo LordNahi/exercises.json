@@ -19,5 +19,6 @@
     "Rapidly dip down into a quarter squat and immediately explode upward. Drive the knees towards the chest, attempting to touch them to the palms of the hands.",
     "Jump as high as you can, raising your knees up, and then ensure a good land be re-extending your legs, absorbing impact through be allowing the knees to rebend."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

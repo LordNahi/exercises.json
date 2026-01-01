@@ -14,5 +14,6 @@
     "Immediately reverse the motion, returning that leg to the starting position. Simultaneously raise the opposite knee as high as possible.",
     "Continue alternating between legs until the set is complete."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

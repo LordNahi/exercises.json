@@ -14,5 +14,6 @@
     "Perform the movement by flexing the spine, crunching the weight down as far as you can.",
     "Hold the peak contraction for a moment before returning to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

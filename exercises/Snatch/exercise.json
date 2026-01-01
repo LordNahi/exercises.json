@@ -25,5 +25,6 @@
     "Now in a very quick but powerful motion, you have to get your body under the barbell when it has reached a high enough point where it can be controlled and drop while locking your arms and holding the barbell overhead as you assume a squat position.",
     "Finalize the movement by rising up out of the squat position to finish the lift. At the end of the lift both feet should be on line and the arms fully extended holding the barbell overhead."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

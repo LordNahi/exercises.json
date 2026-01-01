@@ -14,5 +14,6 @@
     "Lower the bar as far as possible by extending the fingers. Allowing the bar to roll down the hands, catch the bar with the final joint in the fingers.",
     "Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

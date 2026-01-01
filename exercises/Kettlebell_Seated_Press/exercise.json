@@ -15,5 +15,6 @@
     "Clean one kettlebell to your shoulder.",
     "Press the kettlebell up and out until it is locked out overhead. Return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

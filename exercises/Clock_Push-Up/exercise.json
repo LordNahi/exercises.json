@@ -19,5 +19,6 @@
     "As you accelerate up, move your outside foot away from your direction of travel. Leaving the ground, shift your body about 30 degrees for the next repetition.",
     "Return to the starting position and repeat the exercise, working all the way around until you are back where you started."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

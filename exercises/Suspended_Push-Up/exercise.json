@@ -17,5 +17,6 @@
     "Maintaining a straight, rigid torso, descend slowly by allowing the elbows to flex.",
     "Continue until your elbows break 90 degrees, pausing before you extend to return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

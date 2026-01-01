@@ -16,5 +16,6 @@
     "Now raise the plates back to the starting position as you exhale by closing your hands.",
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

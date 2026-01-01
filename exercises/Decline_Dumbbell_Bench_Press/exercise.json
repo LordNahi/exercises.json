@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "Once you are laying down, move the dumbbells in front of you at shoulder width.",
@@ -14,5 +19,6 @@
     "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up..",
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

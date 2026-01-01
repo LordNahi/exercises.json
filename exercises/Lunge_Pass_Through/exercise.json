@@ -19,5 +19,6 @@
     "Pressing through the heel of your foot, return to the starting position.",
     "Repeat the movement for the recommended amount of repetitions, alternating legs."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

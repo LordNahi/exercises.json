@@ -17,5 +17,6 @@
     "Swing the kettlebells between your legs forcefully and reverse the direction.",
     "Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -14,5 +14,6 @@
     "Now, inhale and slowly lower the dumbbells until they are near your ears. Be sure to keep your upper arms stationary and your elbows tucked in.",
     "Then, exhale and use your triceps to return the weight to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

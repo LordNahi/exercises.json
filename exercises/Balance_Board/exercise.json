@@ -16,5 +16,6 @@
     "Stand up on it and try to balance yourself.",
     "Hold the balance for as long as desired."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

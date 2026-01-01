@@ -16,5 +16,6 @@
     "Open the hip as far as possible, attempting to make a big circle with your knee.",
     "Perform this movement slowly for a number of repetitions, and repeat on the other side."
   ],
-  "category": "stretching"
+  "category": "stretching",
+  "trackingType": "TIME"
 }

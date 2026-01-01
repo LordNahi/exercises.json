@@ -16,5 +16,6 @@
     "While inhaling lower the weights down until your arm is at a 90 degree angle again.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

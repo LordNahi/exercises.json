@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "forearms"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Start by standing straight and holding a barbell behind your glutes at arm's length while using a pronated grip (palms will be facing back away from the glutes) and having your hands shoulder width apart from each other.",
@@ -14,5 +16,6 @@
     "Repeat for the recommended amount of repetitions.",
     "When finished, lower the barbell down to the squat rack or the floor by bending the knees. Tip: It is easiest to either pick it up from a squat rack or have a partner hand it to you."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

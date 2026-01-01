@@ -19,5 +19,6 @@
     "In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should be moved to a split stance, one foot forward, one foot back, with the knees partially bent. Receive the bar with the arms locked out overhead.",
     "Return to a standing position, bringing the feet together."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Lie on your back on a decline bench and hold on to the top of the bench with both hands. Don't let your body slip down from this position.",
@@ -13,5 +15,6 @@
     "Hold the contraction for a second and move your legs back to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

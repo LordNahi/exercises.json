@@ -16,5 +16,6 @@
     "Slowly return to the starting position, stretching as far down as possible.",
     "Repeat for your prescribed number of repetitions and then repeat with the right leg."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

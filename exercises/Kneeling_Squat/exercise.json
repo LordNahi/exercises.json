@@ -17,5 +17,6 @@
     "With your head looking forward, sit back with your butt until you touch your calves.",
     "Reverse the motion, returning the torso to an upright position."
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "trackingType": "REPS_WEIGHT"
 }

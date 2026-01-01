@@ -14,5 +14,6 @@
     "Without flexing the elbow, pull the handles upward and apart, performing a reverse fly with some external rotation. Your palms should be facing forward as you do this.",
     "Return to the starting position, taking a couple steps back to take the slack out of the line."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

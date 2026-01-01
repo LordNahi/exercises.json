@@ -19,5 +19,6 @@
     "Lower the arm back to the floor for another pushup and then twist to the other side.",
     "Repeat the series, alternating each side, for 10 or more reps."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

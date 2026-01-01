@@ -14,5 +14,6 @@
     "After a second pause, slowly return to the starting position as you breathe in.",
     "Repeat the movement for the prescribed amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

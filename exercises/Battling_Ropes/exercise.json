@@ -17,5 +17,6 @@
     "As you let that arm drop to the starting position, raise the opposite side.",
     "Continue alternating your left and right arms, whipping the ropes up and down as fast as you can."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

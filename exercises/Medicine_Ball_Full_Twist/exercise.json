@@ -16,5 +16,6 @@
     "For full rotation, you and your partner should twist in the same direction, i.e. counter-clockwise.",
     "Pass the ball to your partner, and both of you can now twist in the opposite direction to repeat the procedure."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

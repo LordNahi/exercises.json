@@ -14,5 +14,6 @@
     "Initiate the movement by moving your arms back and outward, keeping your arms straight as you execute the movement.",
     "Pause at the end of the motion before returning the handles to the start position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

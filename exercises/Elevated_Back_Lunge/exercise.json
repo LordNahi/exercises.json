@@ -17,5 +17,6 @@
     "Begin by stepping backwards with one leg. Descend by flexing your hips and knees until your knee touches the floor.",
     "Pause, and extend through the hips and knees to rise up, returning all the way to the starting position before alternating."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

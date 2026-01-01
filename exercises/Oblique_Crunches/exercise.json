@@ -17,5 +17,6 @@
     "Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (upward) part of the exercise.",
     "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

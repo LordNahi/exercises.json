@@ -20,5 +20,6 @@
     "As the dumbbells close your thighs, start rotating the wrist so that you go back to a neutral (palms facing your body) grip.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

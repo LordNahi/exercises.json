@@ -16,5 +16,6 @@
     "Slowly begin to lower your torso back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

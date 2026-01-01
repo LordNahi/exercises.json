@@ -18,5 +18,6 @@
     "Initiate the movement by lowering the dumbbell to your chest.",
     "Return to the starting position by extending the elbows."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

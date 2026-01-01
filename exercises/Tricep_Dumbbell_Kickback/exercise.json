@@ -14,5 +14,6 @@
     "After a brief pause at the top contraction, inhale and slowly lower the dumbbells back down to the starting position.",
     "Repeat the movement for the prescribed amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

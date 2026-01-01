@@ -17,5 +17,6 @@
     "Begin by twisting at the waist, pushing the bag forward as hard as possible. Perform this move quickly, pushing the bag away from your body.",
     "Receive the bag as it swings back by reversing these steps."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

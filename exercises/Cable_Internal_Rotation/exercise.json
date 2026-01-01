@@ -15,5 +15,6 @@
     "Slowly go back to the initial position.",
     "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

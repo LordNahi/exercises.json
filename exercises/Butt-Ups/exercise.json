@@ -15,5 +15,6 @@
     "Lower back down slowly to your starting position as you breathe in. Tip: Don't let your back sag downwards.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

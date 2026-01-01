@@ -16,5 +16,6 @@
     "Begin the movement by flexing your knees and hips, sitting back with your hips.",
     "Continue down to full depth if you are able,and quickly reverse the motion until you return to the starting position. As you squat, keep your head and chest up and push your knees out."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

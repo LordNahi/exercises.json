@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -22,5 +24,6 @@
     "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
     "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "trackingType": "REPS_WEIGHT"
 }

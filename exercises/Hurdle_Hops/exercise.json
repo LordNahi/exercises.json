@@ -20,5 +20,6 @@
     "Begin by jumping with both feet over the first hurdle, swinging both arms as you jump.",
     "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next hurdle. Continue until you have jumped over all of the hurdles."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

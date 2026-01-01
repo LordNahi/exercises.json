@@ -14,5 +14,6 @@
     "Attempt to raise the bent knee off of the ground as your partner prevents any actual movement.",
     "After 10-20 seconds, relax the leg as your partner gently presses the knee towards the floor. Repeat with the other side."
   ],
-  "category": "stretching"
+  "category": "stretching",
+  "trackingType": "TIME"
 }

@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["calves"],
+  "primaryMuscles": [
+    "calves"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Place a block or weight plate below the bar on the Smith machine. Set the bar to a position that best matches your height. Once the correct height is chosen and the bar is loaded, step onto the plates with the balls of your feet and place the bar on the back of your shoulders.",
@@ -13,5 +15,6 @@
     "Return slowly to the starting position as you breathe in while lowering your heels.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

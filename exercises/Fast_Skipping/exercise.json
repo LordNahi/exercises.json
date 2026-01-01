@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["quadriceps"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -17,5 +19,6 @@
     "Skip by executing a step-hop pattern of right-right-step to left-left-step, and so on, alternating back and forth.",
     "Perform fast skips by maintaining close contact with the ground and reduce air time, moving as quickly as possible."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

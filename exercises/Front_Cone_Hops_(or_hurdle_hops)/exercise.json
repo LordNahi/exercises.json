@@ -21,5 +21,6 @@
     "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next cone.",
     "Continue until you have jumped over all of the cones."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

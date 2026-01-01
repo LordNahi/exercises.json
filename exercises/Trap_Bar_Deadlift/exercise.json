@@ -17,5 +17,6 @@
     "Begin the movement by driving through the heels and extend your hips and knees. Avoid rounding your back at all times.",
     "At the completion of the movement, lower the weight back to the ground under control."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

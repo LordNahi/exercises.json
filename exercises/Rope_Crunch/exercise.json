@@ -15,5 +15,6 @@
     "Pause at the bottom of the motion, and then slowly return to the starting position.",
     "These can be done with twists or to the side to hit the obliques."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

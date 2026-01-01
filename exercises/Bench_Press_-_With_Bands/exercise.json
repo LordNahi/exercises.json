@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Using a flat bench secure a band under the leg of the bench that is nearest to your head.",
     "Once the band is secure, grab it by both handles and lie down on the bench.",
@@ -15,5 +20,6 @@
     "As you breathe out, bring the handles up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

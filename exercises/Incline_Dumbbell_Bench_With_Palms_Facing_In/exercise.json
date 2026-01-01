@@ -20,5 +20,6 @@
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the dumbbells back in your thighs and then on the floor. This is the safest manner to dispose of the dumbbells."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

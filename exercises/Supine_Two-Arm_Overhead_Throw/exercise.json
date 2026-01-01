@@ -18,5 +18,6 @@
     "Initiate the movement at the shoulder, throwing the ball directly forward of you as you sit up, attempting to go for maximum distance.",
     "The ball can be thrown to a partner or bounced off of a wall."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

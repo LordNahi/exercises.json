@@ -13,5 +13,6 @@
     "Alternating between each of your hands, perform the movement by extending the wrist as though you were rolling up a newspaper. Continue alternating back and forth until failure.",
     "Reverse the motion by flexing the wrist, rolling the opposite direction. Continue the alternating motion until failure."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

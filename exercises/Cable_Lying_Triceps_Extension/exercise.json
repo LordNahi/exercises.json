@@ -15,5 +15,6 @@
     "Flex the triceps as you lift the bar back to its starting position. Exhale as you perform this portion of the movement.",
     "Hold for a second at the contracted position and repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

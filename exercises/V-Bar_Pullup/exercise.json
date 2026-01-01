@@ -19,5 +19,6 @@
     "After a second hold on the contracted position, slowly lower your body back to the starting position as you breathe in.",
     "Repeat for the prescribed number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

@@ -22,5 +22,6 @@
     "Receive the bar with the arms locked out overhead.",
     "Return to a standing position."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

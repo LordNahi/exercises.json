@@ -15,5 +15,6 @@
     "After a one second contraction at the top, slowly lower the dumbbells back to the starting position.",
     "Repeat the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

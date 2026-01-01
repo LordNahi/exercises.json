@@ -16,5 +16,6 @@
     "Keeping your head and chest up, extend through the elbow to press the handles directly over head.",
     "After pausing at the top, return to the starting position and repeat."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

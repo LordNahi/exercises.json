@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["calves"],
+  "primaryMuscles": [
+    "calves"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
@@ -12,5 +14,6 @@
     "Straighten the legs by extending the knees, just barely lifting the weight from the stack. Your ankle should be fully flexed, toes pointing up. Execute the movement by pressing downward through the balls of your feet as far as possible.",
     "After a brief pause, reverse the motion and repeat."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

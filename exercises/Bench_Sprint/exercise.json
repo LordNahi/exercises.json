@@ -18,5 +18,6 @@
     "Land with the opposite foot on top of the box, returning your other foot back to the start position.",
     "Continue alternating from one foot to another to complete the set."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

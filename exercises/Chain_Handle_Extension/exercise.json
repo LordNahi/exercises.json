@@ -13,5 +13,6 @@
     "Begin by extending through the elbow, keeping your upper arm still, with your wrists pronated.",
     "Pause at the lockout, and reverse the motion to return to the starting position."
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "trackingType": "REPS_WEIGHT"
 }

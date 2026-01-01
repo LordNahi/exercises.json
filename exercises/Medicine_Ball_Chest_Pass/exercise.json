@@ -18,5 +18,6 @@
     "Your partner should catch the ball, and throw it back to you.",
     "Receive the throw with both hands at chest height."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

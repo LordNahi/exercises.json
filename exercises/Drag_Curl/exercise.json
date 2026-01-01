@@ -16,5 +16,6 @@
     "Slowly go back to the starting position as you keep the bar in contact with the torso at all times.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -19,5 +19,6 @@
     "Land on your jumping leg, and immediately rebound out of it by jumping back to the start position.",
     "Continue hopping back and forth."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

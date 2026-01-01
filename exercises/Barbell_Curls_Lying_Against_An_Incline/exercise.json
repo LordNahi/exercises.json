@@ -14,5 +14,6 @@
     "After a second contraction, slowly go back to the starting position as you inhale. Tip: Make sure that you go all of the way down.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -16,5 +16,6 @@
     "Return to the starting position and repeat for the desired rep count.",
     "Switch sides."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

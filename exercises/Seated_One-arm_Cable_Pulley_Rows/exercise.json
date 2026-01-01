@@ -20,5 +20,6 @@
     "Hold that contraction for a second and slowly go back to the original position while breathing in. Tip: Remember to rotate the wrist as you go back to the starting position so that the palms are facing down again.",
     "Repeat for the recommended amount of repetitions and then perform the same movement with the right hand."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

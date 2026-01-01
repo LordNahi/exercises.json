@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "forearms"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Start out by placing two dumbbells on one side of a flat bench.",
@@ -15,5 +17,6 @@
     "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

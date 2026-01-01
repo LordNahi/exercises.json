@@ -17,5 +17,6 @@
     "Slowly begin to bring the dumbbells back to starting position as your breathe in. Caution: Avoid swinging motions at any time.",
     "Repeat for the recommended amount of repetitions. Then repeat the movement with the left arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

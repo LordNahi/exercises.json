@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["triceps"],
+  "primaryMuscles": [
+    "triceps"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your face as a supinated grip is required to perform this exercise.",
@@ -15,5 +17,6 @@
     "Switch arms and repeat the movement.",
     "Switch arms again and repeat the movement."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

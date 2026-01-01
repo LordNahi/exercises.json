@@ -19,5 +19,6 @@
     "After a pause, go back to the original position as you inhale.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

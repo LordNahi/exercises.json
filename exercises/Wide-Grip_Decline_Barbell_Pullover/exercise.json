@@ -19,5 +19,6 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program.",
     "When finished with your set, slowly lower the barbell back down until it is level with your head and release it."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

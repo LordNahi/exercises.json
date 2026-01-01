@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["lats", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Place a dumbbell standing up on a flat bench.",
     "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench (torso across it as in forming a cross) with only your shoulders lying on the surface. Hips should be below the bench and legs bent with feet firmly on the floor. The head will be off the bench as well.",
@@ -14,5 +20,6 @@
     "At that point, bring the dumbbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
     "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

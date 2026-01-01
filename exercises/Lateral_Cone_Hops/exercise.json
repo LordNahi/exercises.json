@@ -20,5 +20,6 @@
     "Begin the jump by dipping with the knees to initiate a stretch reflex, and immediately reverse direction to push off the ground, jumping up and sideways over the cone.",
     "Use your legs to absorb impact upon landing, and rebound into the next jump, continuing down the row of cones."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

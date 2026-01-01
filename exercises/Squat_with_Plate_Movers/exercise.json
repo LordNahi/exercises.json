@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["quadriceps"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -22,5 +24,6 @@
     "Using your inside foot, push the weight plate, sliding it across the floor to where you were just standing.",
     "Place your inside foot on the weight plate, adopting a wide stance for the next repetition."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -17,5 +17,6 @@
     "Slowly lower your forearms back to the ground by allowing the elbows to flex.",
     "Repeat."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

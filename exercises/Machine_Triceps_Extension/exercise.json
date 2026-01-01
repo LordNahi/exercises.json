@@ -14,5 +14,6 @@
     "Pause at the completion of the movement, and then slowly return the weight to the starting position.",
     "Avoid returning the weight all the way to the stops until the set is complete to keep tension on the muscles being worked."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

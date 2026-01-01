@@ -18,5 +18,6 @@
     "On the next repetition, raise the weights in front of you to shoulder height before moving the weights laterally to your sides.",
     "Lower the weights to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

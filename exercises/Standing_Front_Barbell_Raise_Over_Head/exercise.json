@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
@@ -13,5 +15,6 @@
     "Once you feel the contraction, begin to lower the barbell back down to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

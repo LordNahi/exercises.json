@@ -16,5 +16,6 @@
     "Lower the chains by flexing the elbows, unloading some of the chain onto the floor.",
     "Continue until your elbow forms a 90 degree angle, and then reverse the motion by extending through the elbow to lockout."
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "trackingType": "REPS_WEIGHT"
 }

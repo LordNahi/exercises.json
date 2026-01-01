@@ -19,5 +19,6 @@
     "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",
     "Immediately drop or jump back down to the original starting place; then repeat the sequence."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

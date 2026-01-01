@@ -19,5 +19,6 @@
     "Hold the bottom position for a second and then reverse the motion, driving through the heel and keeping your head and chest up.",
     "Lower yourself again and repeat."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

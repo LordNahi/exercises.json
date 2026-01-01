@@ -15,5 +15,6 @@
     "Switch movements by raising your right leg up and lowering your left leg. Remember to breathe while performing this exercise.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "stretching"
+  "category": "stretching",
+  "trackingType": "TIME"
 }

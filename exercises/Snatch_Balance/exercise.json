@@ -20,5 +20,6 @@
     "Receive the bar locked out overhead near the bottom of the squat. The torso should remain vertical, lowering the hips between the legs.",
     "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

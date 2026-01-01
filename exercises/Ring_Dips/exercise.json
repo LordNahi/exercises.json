@@ -17,5 +17,6 @@
     "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
     "Repeat for the desired number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

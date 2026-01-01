@@ -20,5 +20,6 @@
     "When you touch the floor again, immediately squat down and jump again.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

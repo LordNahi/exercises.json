@@ -17,5 +17,6 @@
     "Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
     "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

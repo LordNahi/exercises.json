@@ -15,5 +15,6 @@
     "Slowly begin to bring the barbell back to starting position as your breathe in. Tip: Avoid swinging motions at any time.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

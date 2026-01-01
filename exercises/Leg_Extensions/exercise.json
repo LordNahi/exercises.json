@@ -14,5 +14,6 @@
     "Slowly lower the weight back to the original position as you inhale, ensuring that you do not go past the 90-degree angle limit.",
     "Repeat for the recommended amount of times."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

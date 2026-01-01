@@ -17,5 +17,6 @@
     "Squat down as you lean foward, your head being lower than your hips and your weight loaded onto the left leg. This will be your starting position.",
     "Take your left hand up so that it is parallel to the ground, pointing behind you, and explode out when ready."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

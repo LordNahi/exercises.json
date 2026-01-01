@@ -19,5 +19,6 @@
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the bar back in the rack."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -17,5 +17,6 @@
     "Raise the weight by shrugging the shoulders towards your ears, moving straight up and down.",
     "Pause at the top of the motion, and then return the weight to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

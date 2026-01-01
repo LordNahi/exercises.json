@@ -16,5 +16,6 @@
     "While inhaling, move your forearms back to the starting position. Note: Your entire body is stationary during this exercise except for the forearms.",
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

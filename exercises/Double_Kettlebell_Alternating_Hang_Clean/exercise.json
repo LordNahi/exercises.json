@@ -21,5 +21,6 @@
     "Clean one kettlebell to your shoulder and hold on to the other kettlebell.",
     "With a fluid motion, lower the top kettlebell while driving the bottom kettlebell up."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -17,5 +17,6 @@
     "Begin the movement by flexing the elbow, lowering the upper arms to the side. Descend until the dumbbells are to your torso.",
     "Pause, then extend the elbow and return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

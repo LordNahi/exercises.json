@@ -16,5 +16,6 @@
     "To begin, raise the barbell out in front of your head while keeping your arms extended.",
     "Return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -15,5 +15,6 @@
     "Hold the kettlebell with the elbow out to the side, and press it up and out until it is locked out overhead.",
     "Lower the kettlebell back to your shoulder under control and repeat. Make sure to contract your lat, butt, and stomach forcefully for added stability and strength."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

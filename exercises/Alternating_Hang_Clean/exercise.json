@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "biceps",
     "calves",
@@ -18,5 +20,6 @@
     "Clean one kettlebell to your shoulder and hold on to the other kettlebell in a hanging position. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so.",
     "Lower the cleaned kettlebell to a hanging position and clean the alternate kettlebell. Repeat."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

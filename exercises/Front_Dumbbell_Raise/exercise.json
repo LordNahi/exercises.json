@@ -14,5 +14,6 @@
     "Now lower the dumbbell back down slowly to the starting position as you simultaneously lift the right dumbbell.",
     "Continue alternating in this fashion until all of the recommended amount of repetitions have been performed for each arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

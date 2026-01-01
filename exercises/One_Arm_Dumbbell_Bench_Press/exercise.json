@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Lie down on a flat bench with a dumbbell in one hand on top of your thigh.",
     "By using your thigh to help you get the dumbbell up, clean the dumbbell up so that you can hold it in front of you at shoulder width. Use the hand you are not lifting with to help position the dumbbell over you properly.",
@@ -15,5 +20,6 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program.",
     "Switch arms and repeat the movement."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

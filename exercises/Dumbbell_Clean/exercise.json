@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -21,5 +23,6 @@
     "After full extension, rebend the hips and knees to receive the weight in a squat position. Allow the arms to bend, guiding the dumbbells to your shoulders.",
     "Upon receiving the weight in the squat position, extend the hips and knees to finish in a standing position with the weights on your shoulders."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

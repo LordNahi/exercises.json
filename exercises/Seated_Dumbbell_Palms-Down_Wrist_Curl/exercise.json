@@ -17,5 +17,6 @@
     "Repeat for the recommended amount of repetitions.",
     "When finished, simply lower the dumbbells to the floor."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

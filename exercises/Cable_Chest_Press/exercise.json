@@ -17,5 +17,6 @@
     "After pausing at full extension, return to th starting position, keeping tension on the cables.",
     "You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

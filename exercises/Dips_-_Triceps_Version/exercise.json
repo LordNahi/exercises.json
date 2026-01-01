@@ -17,5 +17,6 @@
     "Then, exhale and push your torso back up using your triceps to bring your body back to the starting position.",
     "Repeat the movement for the prescribed amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

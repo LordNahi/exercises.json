@@ -4,8 +4,16 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["calves", "glutes", "lower back", "shoulders"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
   "instructions": [],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -16,5 +16,6 @@
     "Execute the movement by driving through the heel, extending your hip upward and raising your glutes off of the ground.",
     "Extend as far as possible, pause and then return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

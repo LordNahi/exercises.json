@@ -16,5 +16,6 @@
     "Slowly lower the dumbbell along the same path as you inhale and then repeat the same movement for the left arm.",
     "Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

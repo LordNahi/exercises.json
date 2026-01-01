@@ -19,5 +19,6 @@
     "Use a countermovement jump to hop from cone to cone.",
     "At the end, turn around and go back on the other leg."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

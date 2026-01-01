@@ -18,5 +18,6 @@
     "Return to the starting position by extending the hip and knee of the lead leg. Breathe out as you perform this movement.",
     "After performing the recommended amount of reps, repeat the movement with the opposite leg."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

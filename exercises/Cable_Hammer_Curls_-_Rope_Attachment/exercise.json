@@ -16,5 +16,6 @@
     "After a 1 second contraction where you squeeze your biceps, slowly start to bring the weight back to the original position.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -16,5 +16,6 @@
     "Begin by flexing the elbow to initiate the movement. Protract your shoulder blades as you do so.",
     "At the completion of the motion pause, and then return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

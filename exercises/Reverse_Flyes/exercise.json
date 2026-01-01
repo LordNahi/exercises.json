@@ -16,5 +16,6 @@
     "Feel the contraction and slowly lower the weights back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

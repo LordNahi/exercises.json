@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",
-  "primaryMuscles": ["biceps"],
+  "primaryMuscles": [
+    "biceps"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.",
@@ -15,5 +17,6 @@
     "Slowly begin to bring the barbell back to the starting position as your breathe in. .",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

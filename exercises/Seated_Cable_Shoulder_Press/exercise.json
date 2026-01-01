@@ -16,5 +16,6 @@
     "After pausing at the top, return the handles to the starting position. Ensure that you maintain tension on the cables.",
     "You can also execute this movement with your back off the pad and alternate hands."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

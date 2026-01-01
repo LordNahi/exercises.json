@@ -14,5 +14,6 @@
     "To perform the movement, extend through the elbow to to straighten your arms, ensuring that you keep your upper arm in place.",
     "Pause, and then return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

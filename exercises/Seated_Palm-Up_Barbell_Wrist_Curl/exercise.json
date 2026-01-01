@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "forearms"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
@@ -13,5 +15,6 @@
     "Lower the bar as far as possible while inhaling and keeping a tight grip.",
     "Now curl bar up as high as possible while flexing the forearms and exhaling. Hold the contraction at the top for a second and Tip: Only the wrist should move."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

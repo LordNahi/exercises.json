@@ -14,5 +14,6 @@
     "Squat down and then forcefully reverse direction, coming to full extension and you toss the ball over your head to your partner.",
     "Your partner can then roll the ball back to you. Repeat for the desired number of repetitions."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

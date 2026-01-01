@@ -16,5 +16,6 @@
     "Go back to the initial position as you inhale and now repeat with the left leg.",
     "Continue to alternate legs until all of the recommended repetitions have been performed."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

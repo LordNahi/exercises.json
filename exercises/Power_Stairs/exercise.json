@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "adductors",
     "calves",
@@ -20,5 +22,6 @@
     "As you lean back, attempt to swing the weight onto the stairs, which are usually around 16-18\" high. You can use your legs to help push the weight onto the stair.",
     "Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible."
   ],
-  "category": "strongman"
+  "category": "strongman",
+  "trackingType": "REPS_WEIGHT"
 }

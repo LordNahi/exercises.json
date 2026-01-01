@@ -18,5 +18,6 @@
     "To begin, press the barbell out in front of your head by extending your elbows. Keep your arms parallel to the ground throughout the movement.",
     "Return to the starting position and repeat to complete the set."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

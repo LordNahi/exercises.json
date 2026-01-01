@@ -17,5 +17,6 @@
     "Begin the movement by driving through your feet to move the bar upward, extending the hips and knees. Do not lock out your knees.",
     "At the top of the motion, pause briefly before returning to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

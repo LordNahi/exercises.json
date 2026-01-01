@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
   "instructions": [],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

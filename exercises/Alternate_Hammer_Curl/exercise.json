@@ -18,5 +18,6 @@
     "Repeat the movement with the left hand. This equals one repetition.",
     "Continue alternating in this manner for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

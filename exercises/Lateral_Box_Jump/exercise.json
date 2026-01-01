@@ -21,5 +21,6 @@
     "Land on the center of the box, using your legs to absorb the impact.",
     "Carefully jump down to the other side of the box, and continue going back and forth for several repetitions."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

@@ -19,5 +19,6 @@
     "Reverse the motion to swing the weight all the way to the opposite side.",
     "Continue alternating the movement until the set is complete."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

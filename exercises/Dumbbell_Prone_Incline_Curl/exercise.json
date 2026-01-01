@@ -16,5 +16,6 @@
     "Lower the dumbbells until your arms are fully extended.",
     "Repeat for the recommended amount of times."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

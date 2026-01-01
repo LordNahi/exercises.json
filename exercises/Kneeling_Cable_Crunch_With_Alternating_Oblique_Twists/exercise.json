@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["abdominals"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.",
@@ -17,5 +19,6 @@
     "Repeat the same movement as before, but alternate the other elbow to the opposite knee.",
     "Continue this series of movements to failure."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

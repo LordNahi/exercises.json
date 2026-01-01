@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["chest"],
+  "primaryMuscles": [
+    "chest"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Sit on the machine with your back flat on the pad.",
@@ -13,5 +15,6 @@
     "Return back to the starting position slowly as you inhale until your chest muscles are fully stretched.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

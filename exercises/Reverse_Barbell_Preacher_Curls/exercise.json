@@ -17,5 +17,6 @@
     "As you breathe in, slowly lower the barbell until your upper arms are extended and the biceps is fully stretched.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

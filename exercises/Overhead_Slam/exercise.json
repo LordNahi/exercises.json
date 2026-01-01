@@ -14,5 +14,6 @@
     "Reverse the motion, slamming the ball into the ground directly in front of you as hard as you can.",
     "Receive the ball with both hands on the bounce and repeat the movement."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

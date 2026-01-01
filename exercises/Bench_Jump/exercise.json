@@ -19,5 +19,6 @@
     "Jump over the bench, landing with the knees bent, absorbing the impact through the legs.",
     "Turn around and face the opposite direction, then jump back over the bench."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

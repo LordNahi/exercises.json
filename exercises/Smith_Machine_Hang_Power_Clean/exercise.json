@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "glutes",
     "lower back",
@@ -20,5 +22,6 @@
     "Allow the arms to flex at this point, rotating the elbows around the bar to receive it on your shoulders.",
     "Extend through the hips and knees to come to a standing position with the bar racked on your shoulders to complete the movement."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

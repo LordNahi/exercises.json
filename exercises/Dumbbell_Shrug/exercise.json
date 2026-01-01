@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["traps"],
+  "primaryMuscles": [
+    "traps"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides.",
@@ -12,5 +14,6 @@
     "Lower the dumbbells back to the original position.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

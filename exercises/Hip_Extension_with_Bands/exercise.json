@@ -16,5 +16,6 @@
     "Keeping your head and your chest up, move the resisted leg back as far as you can while keeping the knee straight.",
     "Return the leg to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -17,5 +17,6 @@
     "At peak extension, flex the shoulders, spine, and hips to throw the ball hard into the ground directly in front of you.",
     "Catch the ball on the bounce and continue for the desired number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

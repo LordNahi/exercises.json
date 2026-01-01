@@ -20,5 +20,6 @@
     "Use the heel of your feet to push your body up to the starting position as you exhale.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

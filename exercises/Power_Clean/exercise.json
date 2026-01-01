@@ -44,5 +44,6 @@
     "Squat down with the elbows fully extended until the bar touches the floor.",
     "Start over at Phase 1 and repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -15,5 +15,6 @@
     "Now inhale as you roll the dumbbell slightly forward as you come down to get a better stretch.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

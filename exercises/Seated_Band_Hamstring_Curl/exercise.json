@@ -14,5 +14,6 @@
     "Flex the knees, bringing your feet towards the bench. You may need to lean back slightly to keep your feet from striking the floor.",
     "Pause at the completion of the movement, and then slowly return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

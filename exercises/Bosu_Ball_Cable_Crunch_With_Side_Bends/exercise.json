@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["abdominals"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle to each arm of a cable machine, and position them in the most downward position.",
@@ -18,5 +20,6 @@
     "Once you reach failure, keep your abs tight and raise your torso into plank position so your back is elevated off the Bosu Ball.",
     "Lower your arms down to your side; keep them straight. Start doing alternating side bends; reach for your heels! This finishing movement will focus on your obliques."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

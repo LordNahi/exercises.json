@@ -18,5 +18,6 @@
     "Reverse the motion by extending the flexed arm, pushing yourself up and then dropping to the other side.",
     "Repeat for the desired number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

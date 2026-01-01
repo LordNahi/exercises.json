@@ -22,5 +22,6 @@
     "After a second of contraction, inhale as you go back to the starting position.",
     "Repeat steps 3-6 until you have performed the prescribed amount of repetitions for each side."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

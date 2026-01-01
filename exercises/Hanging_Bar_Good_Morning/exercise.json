@@ -18,5 +18,6 @@
     "Begin the motion by extending through the hips with your glutes and hamstrings, and you are standing with the weight.",
     "Slowly lower the weight back to the starting position, where it is supported by the chains."
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "trackingType": "REPS_WEIGHT"
 }

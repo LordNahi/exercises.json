@@ -19,5 +19,6 @@
     "Go back to the initial position where the arms are extended and the shoulders are stretched forward. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

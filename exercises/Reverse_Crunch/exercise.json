@@ -15,5 +15,6 @@
     "Hold the contraction for a second and move your legs back to the starting position while exhaling.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

@@ -15,5 +15,6 @@
     "Press the kettlebell straight up toward the ceiling, rotating your wrist.",
     "Lower the kettlebell back to the starting position and repeat."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

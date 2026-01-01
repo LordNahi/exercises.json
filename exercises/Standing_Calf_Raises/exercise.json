@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["calves"],
+  "primaryMuscles": [
+    "calves"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Adjust the padded lever of the calf raise machine to fit your height.",
@@ -13,5 +15,6 @@
     "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

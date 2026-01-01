@@ -18,5 +18,6 @@
     "Powerfully reverse the motion by extending at the hips, knees, and ankles to propel yourself upward, swinging the dumbell over your head.",
     "As you land, absorb the impact through your legs and draw the dumbbell to your torso before the next repetition."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

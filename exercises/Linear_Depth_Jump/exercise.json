@@ -18,5 +18,6 @@
     "Reverse the motion by exploding, extending through the hips, knees, and ankles to jump onto the other platform.",
     "Land softly, asborbing the impact through the legs."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

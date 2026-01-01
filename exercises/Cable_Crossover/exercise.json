@@ -17,5 +17,6 @@
     "Return your arms back to the starting position as you breathe out. Make sure to use the same arc of motion used to lower the weights.",
     "Hold for a second at the starting position and repeat the movement for the prescribed amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

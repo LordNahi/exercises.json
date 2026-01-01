@@ -15,5 +15,6 @@
     "Lift the dumbbells back to the starting position by contracting the triceps and exhaling.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

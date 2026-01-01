@@ -16,5 +16,6 @@
     "Slowly go back down to the starting position as you breathe in by lowering the balls of your feet and toes.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["lats"],
+  "primaryMuscles": [
+    "lats"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
@@ -13,5 +15,6 @@
     "Slowly go back to the starting position using your lats and hold the contraction once you reach the starting position. Breathe out during the execution of this movement.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

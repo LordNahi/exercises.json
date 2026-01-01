@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["chest"],
+  "primaryMuscles": [
+    "chest"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",
@@ -13,5 +15,6 @@
     "Return your arms back to the starting position after a pause at the peak contraction.",
     "Continue the movement for the prescribed number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

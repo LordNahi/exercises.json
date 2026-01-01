@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["calves"],
+  "primaryMuscles": [
+    "calves"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Place a block about 12 inches in front of a flat bench.",
@@ -14,5 +16,6 @@
     "After a second contraction, slowly go back to the starting position. Tip: To get maximum benefit stretch your calves as far as you can.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

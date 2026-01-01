@@ -14,5 +14,6 @@
     "After a brief pause, return the hips to the bench.",
     "Repeat for the desired number of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

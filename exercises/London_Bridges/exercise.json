@@ -18,5 +18,6 @@
     "Keeping your body straight, lean back and lower your body by slowly going hand over hand with the rope. Continue until you are perpendicular to the ground.",
     "Keeping your body straight, reverse the motion, going hand over hand back to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

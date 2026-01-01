@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["triceps"],
+  "primaryMuscles": [
+    "triceps"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
@@ -13,5 +15,6 @@
     "After a second hold at the contracted position, bring the bar slowly up to the starting point. Breathe in as you perform this step.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

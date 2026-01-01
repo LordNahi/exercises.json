@@ -16,5 +16,6 @@
     "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the dumbbells are at shoulder height.",
     "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

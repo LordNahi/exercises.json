@@ -17,5 +17,6 @@
     "Bring back the dumbbells to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

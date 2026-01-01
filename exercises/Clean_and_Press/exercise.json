@@ -28,5 +28,6 @@
     "Stand to full height, holding the bar in the clean position.",
     "Without moving your feet, press the bar overhead as you exhale. Lower the bar under control ."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

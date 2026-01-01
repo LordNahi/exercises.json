@@ -15,5 +15,6 @@
     "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions.",
     "Perform the same exercise now for the left leg."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

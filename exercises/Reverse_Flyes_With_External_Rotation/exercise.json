@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on an incline bench set at a 30-degree angle with the chest and stomach pressing against the incline.",
@@ -15,5 +17,6 @@
     "Feel the contraction and slowly lower the weights back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -19,5 +19,6 @@
     "Retract the shoulder blades and flex the elbows to row the dumbbells to your side.",
     "Pause at the top of the motion, and then return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -17,5 +17,6 @@
     "Stay tight and return the working leg to the starting position.",
     "Repeat on the opposite side, alternating until the set is complete."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

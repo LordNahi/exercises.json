@@ -12,5 +12,6 @@
     "triceps"
   ],
   "instructions": [],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

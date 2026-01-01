@@ -20,5 +20,6 @@
     "Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees.",
     "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

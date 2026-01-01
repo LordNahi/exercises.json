@@ -17,5 +17,6 @@
     "Explode up, extending through the elbow to throw the ball directly above you as high as possible.",
     "Catch the ball with both hands as it comes down."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

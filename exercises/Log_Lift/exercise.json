@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
   "secondaryMuscles": [
     "abdominals",
     "chest",
@@ -21,5 +23,6 @@
     "Push your head back and look up, creating a shelf on your chest to rest the log. Begin the press by dipping, flexing slightly through the knees and reversing the motion. This push press will generate momentum to start the log moving vertically. Continue by extending through the elbows to press the log above your head. There are no strict rules on form, so use whatever techniques you are most efficient with. As the log is pressed, ensure that you push your head through on each repetition, looking forward.",
     "Repeat as many times as possible. Attempt to control the descent of the log as it is returned to the ground."
   ],
-  "category": "strongman"
+  "category": "strongman",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -15,5 +15,6 @@
     "While keeping the arms straight, go back to the starting position while breathing in.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

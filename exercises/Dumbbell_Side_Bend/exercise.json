@@ -14,5 +14,6 @@
     "Now repeat the movement but bending to the left instead. Hold for a second and come back to the starting position.",
     "Repeat for the recommended amount of repetitions and then change hands."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

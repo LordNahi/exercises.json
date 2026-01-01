@@ -18,5 +18,6 @@
     "Return to the starting position as you breathe out and you contract the triceps. Hold the contraction for a second.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

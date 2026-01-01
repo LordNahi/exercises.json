@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["lower back"],
+  "primaryMuscles": [
+    "lower back"
+  ],
   "secondaryMuscles": [
     "biceps",
     "forearms",
@@ -18,5 +20,6 @@
     "Begin by pulling the weight up past the knees, extending through the hips. As the weight clears the knees, it can be lapped by resting it on your thighs and sitting back, hugging it tightly to your chest.",
     "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
   ],
-  "category": "strongman"
+  "category": "strongman",
+  "trackingType": "REPS_WEIGHT"
 }

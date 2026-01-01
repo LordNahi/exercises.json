@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Adjust the machine lever to fit your height and sit on the machine with your back against the back support pad.",
@@ -13,5 +15,6 @@
     "Slowly return to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

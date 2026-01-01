@@ -15,5 +15,6 @@
     "After a second hold at the contracted position, bring the V-Bar slowly up to the starting point. Breathe in as you perform this step.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

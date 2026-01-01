@@ -15,5 +15,6 @@
     "Maintaining strict technique with no leg drive or leaning back, extend through the elbow to raise the weights together directly above your head.",
     "Pause, and slowly return the weight to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

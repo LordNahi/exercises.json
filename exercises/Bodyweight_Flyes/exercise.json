@@ -19,5 +19,6 @@
     "Using a slow and controlled motion, move your hands away from the midline of your body, rolling the bars apart. Inhale during this portion of the motion.",
     "After moving the bars as far apart as you can, return to the starting position by pulling them back together. Exhale as you perform this movement."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

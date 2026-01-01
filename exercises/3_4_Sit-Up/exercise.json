@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
@@ -13,5 +15,6 @@
     "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

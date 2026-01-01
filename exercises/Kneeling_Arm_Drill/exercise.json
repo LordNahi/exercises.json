@@ -16,5 +16,6 @@
     "As soon as your hands pass the hip, accelerate them forward during the sprinting motion to move them as quickly as possible.",
     "Switch knees and repeat."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

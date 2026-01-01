@@ -21,5 +21,6 @@
     "Upon landing, immediately push off in the opposite direction, returning to your original start position.",
     "Continue back and forth for several repetitions."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

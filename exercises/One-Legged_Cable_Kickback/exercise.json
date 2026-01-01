@@ -18,5 +18,6 @@
     "Repeat for the recommended amount of repetitions.",
     "Switch legs and repeat the movement for the other side."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

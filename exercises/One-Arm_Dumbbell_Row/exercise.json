@@ -21,5 +21,6 @@
     "Repeat the movement for the specified amount of repetitions.",
     "Switch sides and repeat again with the other arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

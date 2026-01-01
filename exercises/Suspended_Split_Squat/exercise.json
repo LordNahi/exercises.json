@@ -20,5 +20,6 @@
     "Descend by flexing the knee and hips, lowering yourself to the ground. Keep your weight on the heel of your foot and maintain your posture throughout the exercise.",
     "At the bottom of the movement, reverse the motion, extending through the hip and knee to return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

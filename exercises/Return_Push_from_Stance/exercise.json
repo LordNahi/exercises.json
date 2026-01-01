@@ -18,5 +18,6 @@
     "Catch the medicine ball with both hands and immediately throw it back to your partner.",
     "You can modify this drill by running different routes."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

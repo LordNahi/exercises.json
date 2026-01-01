@@ -14,5 +14,6 @@
     "Keep your arms slightly bent throughout the movement, with all of the motion occurring at the shoulder joint.",
     "Pause at the rear of the movement, and slowly return the weight to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

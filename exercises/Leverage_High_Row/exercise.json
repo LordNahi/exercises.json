@@ -16,5 +16,6 @@
     "Pause at the bottom of the motion, and then slowly return the handles to the starting position.",
     "For multiple repetitions, avoid completely returning the weight to the stops to keep tension on the muscles being worked."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

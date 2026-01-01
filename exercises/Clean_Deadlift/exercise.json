@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "forearms",
     "glutes",
@@ -18,5 +20,6 @@
     "Begin by driving through the floor through the front of your heels. As the bar travels upward, maintain a constant back angle. Flare your knees out to the side to help keep them out of the bar's path.",
     "After the bar crosses the knees, complete the lift by driving the hips into the bar until your hips and knees are extended."
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -16,5 +16,6 @@
     "Violently throw the ball forward, flexing at the hip and using your whole body to complete the movement.",
     "The medicine ball can be thrown to a partner or to a wall, receiving it as it bounces back."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -16,5 +16,6 @@
     "Continue bringing the heel closer to you, sliding it on the floor.",
     "At full knee flexion, reverse the movement to return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

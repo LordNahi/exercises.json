@@ -20,5 +20,6 @@
     "It may help to use a line on the ground to guage distance from side to side.",
     "Repeat the sequence with the other leg."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
   "instructions": [
     "Hold a dumbbell on each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
     "Extend your arms above you with a slight bend at the elbows.",
@@ -14,5 +18,6 @@
     "As you exhale start to bring the dumbbells back up to the starting position by reversing the motion and rotating the hands so that the pinky fingers are next to each other again. Tip: Keep in mind that the movement will only happen at the shoulder joint and at the wrist. There is no motion that happens at the elbow joint.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

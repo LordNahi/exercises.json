@@ -20,5 +20,6 @@
     "Repeat until you have performed your recommended repetitions.",
     "Switch arms and repeat the movement."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

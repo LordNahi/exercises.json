@@ -14,5 +14,6 @@
     "To perform the movement, extend through the elbow while keeping the upper arm in position, raising your hands above your head.",
     "Squeeze your triceps at the top of the movement, and slowly lower the weight back to the start position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

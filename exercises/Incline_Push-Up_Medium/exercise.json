@@ -19,5 +19,6 @@
     "Keeping your body straight, lower your chest to the bar by bending the arms.",
     "Return to the starting position by extending the elbows, pressing yourself back up."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

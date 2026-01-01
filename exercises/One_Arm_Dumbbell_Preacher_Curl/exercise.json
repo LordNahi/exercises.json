@@ -15,5 +15,6 @@
     "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the movement."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

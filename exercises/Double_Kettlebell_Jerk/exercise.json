@@ -21,5 +21,6 @@
     "Return your feet to the ground in a split fashion, with one foot forward and one foot back.",
     "Keeping the weights overhead, return to a standing position, bringing your feet together. Lower the weights to perform the next repetition."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

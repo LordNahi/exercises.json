@@ -4,7 +4,9 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["calves"],
+  "primaryMuscles": [
+    "calves"
+  ],
   "secondaryMuscles": [],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the bar on the back of your shoulders (slightly below the neck).",
@@ -14,5 +16,6 @@
     "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

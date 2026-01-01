@@ -15,5 +15,6 @@
     "Slowly lower the dumbbells to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

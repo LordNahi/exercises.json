@@ -16,5 +16,6 @@
     "Reload the quad as the leg moves back forward, attacking the ground on the next step.",
     "Ensure that as you run, you block with the arms, punching through in a rapid 1-2 motion."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

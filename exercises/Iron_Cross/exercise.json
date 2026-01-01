@@ -16,5 +16,6 @@
     "traps"
   ],
   "instructions": [],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

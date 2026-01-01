@@ -18,5 +18,6 @@
     "Attempt to land with your feet out in front you, reaching as far as possible with your legs.",
     "Measure the distance from your landing point to the starting point and track results."
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "trackingType": "REPS_BODYWEIGHT"
 }

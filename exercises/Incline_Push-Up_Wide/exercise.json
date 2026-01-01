@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
     "Place your hands on the bar, with your hands wider than shoulder width.",
@@ -13,5 +19,6 @@
     "Keeping your body straight, lower your chest to the bar by bending the arms.",
     "Return to the starting position by extending the elbows, pressing yourself back up."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

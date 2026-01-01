@@ -15,5 +15,6 @@
     "After the brief pause, inhale and slowly begin the lower the dumbbells back down to the starting position.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

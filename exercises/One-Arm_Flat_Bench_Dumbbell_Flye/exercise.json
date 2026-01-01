@@ -16,5 +16,6 @@
     "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions.",
     "Switch arms and repeat the exercise."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

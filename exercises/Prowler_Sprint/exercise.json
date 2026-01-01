@@ -19,5 +19,6 @@
     "You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement.",
     "With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance."
   ],
-  "category": "cardio"
+  "category": "cardio",
+  "trackingType": "DISTANCE_TIME"
 }

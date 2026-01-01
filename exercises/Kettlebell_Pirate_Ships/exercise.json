@@ -16,5 +16,6 @@
     "Allow the bell to drop as you rotate to the opposite side, again raising the kettlebell to head height.",
     "Repeat for the desired amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

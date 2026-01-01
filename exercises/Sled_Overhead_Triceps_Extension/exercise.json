@@ -14,5 +14,6 @@
     "Extend through the elbow to straighten the arm. Ensure that your upper arm stays in position to isolate the triceps.",
     "Upon full extension, step forward to take the slack out of the line. You may keep your feet staggered for more stability."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

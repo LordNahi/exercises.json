@@ -16,5 +16,6 @@
     "Lower the handles back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

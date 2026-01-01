@@ -18,5 +18,6 @@
     "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
     "Step forward with your rear foot, repeating the lunge on the opposite leg."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

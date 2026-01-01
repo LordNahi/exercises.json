@@ -18,5 +18,6 @@
     "As you move up, press the weight up so that it is above your head at the top of the movement.",
     "Return the weight to your chest as you reverse the sit-up motion, ensuring not to go all the way down to the floor."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_BODYWEIGHT"
 }

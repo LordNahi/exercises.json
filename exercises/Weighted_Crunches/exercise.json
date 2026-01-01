@@ -15,5 +15,6 @@
     "At the top of the movement, flex your abdominals and hold for a brief pause.",
     "Then inhale and slowly lower yourself back down to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

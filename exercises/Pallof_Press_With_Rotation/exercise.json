@@ -23,5 +23,6 @@
     "Repeat to failure.",
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

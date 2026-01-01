@@ -16,5 +16,6 @@
     "Slowly move that leg outward as far as you can, and then back to the center and down.",
     "Repeat for your other leg."
   ],
-  "category": "stretching"
+  "category": "stretching",
+  "trackingType": "TIME"
 }

@@ -17,5 +17,6 @@
     "To initiate the movement, flex the elbow as you retract your shoulder blades, pulling the sled towards you.",
     "Take a step or two back to get tension in the line and repeat."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

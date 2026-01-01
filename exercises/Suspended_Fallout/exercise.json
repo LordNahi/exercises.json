@@ -19,5 +19,6 @@
     "Maintain a neutral spine and keep the rest of your body straight, your shoulders being the only joints allowed to move.",
     "Pause during the peak contraction, and then return to the starting position."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

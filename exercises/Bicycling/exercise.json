@@ -15,5 +15,6 @@
   "instructions": [
     "To begin, seat yourself on the bike and adjust the seat to your height."
   ],
-  "category": "cardio"
+  "category": "cardio",
+  "trackingType": "DISTANCE_TIME"
 }

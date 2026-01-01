@@ -16,5 +16,6 @@
     "As you breathe in, slowly go back to the starting position.",
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }

@@ -15,5 +15,6 @@
     "Now as you inhale lower the arm back down slowly to the starting position.",
     "Once all of the recommended amount of repetitions have been performed for this arm, switch arms and perform the exercise with the right one."
   ],
-  "category": "strength"
+  "category": "strength",
+  "trackingType": "REPS_WEIGHT"
 }
