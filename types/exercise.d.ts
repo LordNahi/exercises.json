@@ -1,3 +1,10 @@
+export enum TrackingType {
+  REPS_WEIGHT = "REPS_WEIGHT",
+  REPS_BODYWEIGHT = "REPS_BODYWEIGHT",
+  TIME = "TIME",
+  DISTANCE_TIME = "DISTANCE_TIME",
+}
+
 export enum Muscle {
   abdominals = "abdominals",
   hamstrings = "hamstrings",
@@ -69,6 +76,7 @@ export interface Exercise {
   secondaryMuscles: Muscle[];
   force?: Force;
   level: Level;
+  trackingType: TrackingType;
   mechanic?: Mechanic;
   equipment?: Equipment;
   category: Category;
